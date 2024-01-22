@@ -40,6 +40,7 @@ export const getUsersForSidebar = async (authUserId: string) => {
 };
 
 export const getUserProfile = async (userId: string) => {
+	noStore();
 	try {
 		await connectToMongoDB();
 		const user: IUserDocument | null = await User.findById(userId);
@@ -52,6 +53,7 @@ export const getUserProfile = async (userId: string) => {
 };
 
 export const getMessages = async (authUserId: string, otherUserId: string) => {
+	noStore();
 	try {
 		await connectToMongoDB();
 
