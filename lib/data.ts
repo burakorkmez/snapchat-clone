@@ -11,7 +11,10 @@ export const getUsersForSidebar = async (authUserId: string) => {
 		const usersInfo = await Promise.all(
 			allUsers.map(async (user) => {
 				const lastMessage: IMessageDocument | null = await Message.findOne({
-					$or: [{ sender: user._id }, { receiver: user._id }],
+					$or: [
+						{ sender: user._id, receiver: authUserId },
+						{ sender: authUserId, receiver: user._id },
+					],
 				})
 					.sort({ createdAt: -1 })
 					.populate("sender", "fullName avatar _id")
