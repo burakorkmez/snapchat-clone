@@ -29,7 +29,8 @@ function DeleteButton() {
 	);
 }
 
-// STARTER CODE FOR THIS FILE => TIMESTAMP: <>
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 02:59:55
+
 // "use client";
 // import { Button } from "@/components/ui/button";
 // import { Trash } from "lucide-react";

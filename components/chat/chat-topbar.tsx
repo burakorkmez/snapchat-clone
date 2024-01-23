@@ -27,7 +27,7 @@ const ChatTopbar = async ({ params }: { params: { id: string } }) => {
 };
 export default ChatTopbar;
 
-// STARTER CODE FOR THIS FILE => TIMESTAMP: <>
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 02:58:35
 // import Link from "next/link";
 // import { ChevronLeft } from "lucide-react";
 // import ChatUserInfo from "./chat-user-info";

@@ -17,7 +17,7 @@ const ChatUserInfo = ({ userData }: { userData: IUserDocument }) => {
 };
 export default ChatUserInfo;
 
-// STARTER CODE FOR THIS FILE => TIMESTAMP: <>
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 02:59:30
 // import { Avatar, AvatarImage } from "@/components/ui/avatar";
 
 // const ChatUserInfo = () => {

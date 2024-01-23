@@ -9,7 +9,7 @@ export default async function Signup() {
 	);
 }
 
-// TimeStamp:
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 00:41:05
 // import Image from "next/image";
 // import Link from "next/link";
 

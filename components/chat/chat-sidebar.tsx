@@ -43,7 +43,7 @@ const ChatSideBar = async () => {
 };
 export default ChatSideBar;
 
-// STARTER CODE FOR THIS FILE => TIMESTAMP:<>
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 01:49:12
 // import { SearchIcon } from "lucide-react";
 // import LogoutButton from "../shared/logout-button";
 // import { Avatar, AvatarImage } from "../ui/avatar";

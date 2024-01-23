@@ -131,7 +131,7 @@ const ChatMessages = ({ messages, session }: ChatMessagesProps) => {
 };
 export default ChatMessages;
 
-// STARTER CODE FOR THIS FILE => TIMESTAMP: <>
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 03:01:30
 // "use client";
 // import Image from "next/image";
 // import { useRef } from "react";

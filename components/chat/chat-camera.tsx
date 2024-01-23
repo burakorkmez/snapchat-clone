@@ -58,7 +58,7 @@ const ChatCamera = () => {
 };
 export default ChatCamera;
 
-// STARTER CODE FOR THIS FILE => TIMESTAMP:<>
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 01:50:10
 // "use client";
 // import { readFileAsDataURL } from "@/lib/utils";
 // import Image from "next/image";

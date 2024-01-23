@@ -116,7 +116,7 @@ const SelectUserDialog = ({ selectedFile, onClose, onPrev }: SelectUserDialogPro
 
 export default SelectUserDialog;
 
-// STARTER CODE FOR THIS FILE => TIMESTAMP:<>
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 01:54:40
 // import { Dialog, DialogContent, DialogFooter, DialogClose, DialogHeader } from "../ui/dialog";
 // import { Button } from "../ui/button";
 // import { TextMessageSent } from "../svgs/chatSvg";

@@ -50,7 +50,7 @@ export default async function Home() {
 	);
 }
 
-// Below the navbar put this: TimeStamp:
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 00:34:35
 {
 	/* <main className='flex flex-1 flex-col md:flex-row items-center justify-center px-8 mt-4'>
 	<div className='flex-1 md:text-left text-center h-full'>

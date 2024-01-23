@@ -48,7 +48,7 @@ const ImagePreviewDialog: React.FC<ImagePreviewDialogProps> = ({ selectedFile, o
 
 export default ImagePreviewDialog;
 
-// STARTER CODE FOR THIS FILE => TIMESTAMP:<>
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 01:53:35
 // import Image from "next/image";
 // import { Dialog, DialogContent, DialogHeader, DialogFooter, DialogClose } from "@/components/ui/dialog";
 // import { Button } from "../ui/button";

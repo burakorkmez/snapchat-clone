@@ -39,7 +39,7 @@ function LoginButton() {
 	);
 }
 
-// Timestamp:
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 00:39:50
 // import Link from "next/link";
 // import { Button } from "@/components/ui/button";
 // import Image from "next/image";

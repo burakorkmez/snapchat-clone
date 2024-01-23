@@ -77,7 +77,7 @@ const Chat = ({ chat }: ChatProps) => {
 };
 export default Chat;
 
-// STARTER CODE TO COPY => Timestamp<>
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 02:39:13
 {
 	/* <Link href={`/chat/${userToChat?._id}`}>
 <li className='flex items-center p-2  bg-sigSurface hover:bg-sigBackgroundFeedHover cursor-pointer border-b border-b-sigColorBgBorder'>

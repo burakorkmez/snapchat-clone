@@ -25,7 +25,7 @@ const ChatHistoryPage = async ({ params }: { params: { id: string } }) => {
 };
 export default ChatHistoryPage;
 
-// STARTER CODE FOR THIS FILE => TIMESTAMP: <>
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 02:57:20
 // import ChatMessages from "@/components/chat/chat-messages";
 // import ChatTopbar from "@/components/chat/chat-topbar";
 // import SendMsgInput from "@/components/chat/send-msg-input";

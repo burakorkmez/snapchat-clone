@@ -24,7 +24,7 @@ const UserCard = ({ user, handleSelectUser, selectedUser }: UserCardProps) => {
 };
 export default UserCard;
 
-// STARTER CODE FOR THIS FILE => TIMESTAMP:<>
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 01:56:00
 // import { Avatar, AvatarImage } from "../ui/avatar";
 
 // const UserCard = () => {

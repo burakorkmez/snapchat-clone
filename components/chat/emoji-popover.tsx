@@ -29,7 +29,6 @@ export function EmojiPopover() {
 			const blob = await fetch(imgUrl).then((r) => r.blob());
 			const dataUrl = await readFileAsDataURL(blob);
 			await sendMessageAction(id, dataUrl, "image");
-			// We need to handle something here LATER
 		} catch (error) {
 			console.error("Error from sending emoji function", error);
 		} finally {
@@ -65,8 +64,7 @@ const Emoji = ({ src, alt, onClick }: { src: string; alt: string; onClick: () =>
 	</div>
 );
 
-// STARTER CODE FOR THIS FILE => TIMESTAMP: <>
-
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 03:04:10
 // import { Button } from "@/components/ui/button";
 // import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 

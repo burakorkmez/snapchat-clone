@@ -38,7 +38,7 @@ function SignUpButton() {
 	);
 }
 
-// Timestamp
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 00:41:30
 // import Link from "next/link";
 // import { Button } from "@/components/ui/button";
 // import Image from "next/image";
@@ -47,7 +47,7 @@ function SignUpButton() {
 // 	return (
 // 		<>
 // 			<form className='space-y-4'>
-// 				<LoginButton />
+// 				<SignUpButton />
 // 			</form>
 // 			<div className='mt-4 text-center text-[13px]'>
 // 				<span>Already have an account? </span>

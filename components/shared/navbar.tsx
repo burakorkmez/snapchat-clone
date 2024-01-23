@@ -31,7 +31,7 @@ const Navbar = async () => {
 };
 export default Navbar;
 
-// TimeStamp: 1:00:00
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 00:31:22
 // import Image from "next/image";
 // import React from "react";
 // import Link from "next/link";

@@ -17,7 +17,7 @@ export default async function ChatRootPage() {
 	);
 }
 
-// STARTER CODE FOR THIS FILE=> TIMESTAMP:
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 01:40:30
 // import ChatCamera from "@/components/chat/chat-camera";
 // import Image from "next/image";
 

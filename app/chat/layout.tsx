@@ -9,3 +9,5 @@ const Layout = ({ children }: React.PropsWithChildren) => {
 	);
 };
 export default Layout;
+
+// COPY AND PASTE THIS FILE AT 01:48:40, we will never change this file.

@@ -64,7 +64,7 @@ const SendMsgInput = () => {
 };
 export default SendMsgInput;
 
-//  STARTER CODE FOR THIS FILE => TIMESTAMP: <>
+// STARTER CODE FOR THIS FILE. TimeStamp to paste this code => 03:03:00
 // "use client";
 // import Image from "next/image";
 // import { EmojiPopover } from "./emoji-popover";
